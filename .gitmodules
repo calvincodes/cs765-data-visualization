@@ -4,3 +4,6 @@
 [submodule "dc3-vis1"]
 	path = dc3-vis1
 	url = https://github.com/SrujanaN/DC3.git
+[submodule "dc3-vis2"]
+	path = dc3-vis2
+	url = https://github.com/calvincodes/cs765-dc3.git
